@@ -1,5 +1,6 @@
 # Awesome AI Design Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 **English** · [العربية](README.ar.md)
 
 > A curated list of AI design tools that return something editable, from interface files to palettes, animation rigs, and test results.
